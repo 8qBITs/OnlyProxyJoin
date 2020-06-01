@@ -1,0 +1,8 @@
+name: OnlyProxyJoin
+version: 1.0
+author: JulianFun123
+main: de.emeraldhost.plugins.onlyproxyjoin.OnlyProxyJoinPlugin
+
+commands:
+  onlyproxyjoin:
+    description: OnlyProxyJoin admin commands
